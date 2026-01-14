@@ -25,5 +25,6 @@ This project was developed as part of the Coursera Smart Contracts course.
 ## Project Structure
 auction-smart-contract/
 │
-├── Auction.sol/
+├── Auction.sol
+
 └── README.md
