@@ -29,3 +29,11 @@ auction-smart-contract/
 ├── Auction.sol
 
 └── README.md
+
+
+## Output
+Winners are selected randomly for each auction item.
+
+## Author
+Swastik Awasthi
+
