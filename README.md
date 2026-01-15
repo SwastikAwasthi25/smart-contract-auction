@@ -34,6 +34,24 @@ auction-smart-contract/
 ## Output
 Winners are selected randomly for each auction item.
 
+## Practice Contracts
+This repository also contains Solidity practice contracts created
+during the Coursera course, including:
+
+- Ballot variations
+- Bidder contracts
+- Coin contract
+- Greeter
+- Storage contracts
+
+These were implemented to strengthen core Solidity concepts.
+
+## Demo & Proof
+Execution screenshots and demo have been shared on LinkedIn.
+Repository contains the complete working code.
+
+
+
 ## Author
 Swastik Awasthi
 
